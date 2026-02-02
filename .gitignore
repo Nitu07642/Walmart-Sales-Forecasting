@@ -1,0 +1,6 @@
+walmart_sales_rf_model.pkl
+*.pkl
+*.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
