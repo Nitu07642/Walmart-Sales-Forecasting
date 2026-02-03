@@ -55,16 +55,18 @@ Unlike traditional analysis, this project features a **real-time automation pipe
 <img width="1640" height="730" alt="image" src="https://github.com/user-attachments/assets/7567040d-b127-4883-a2f5-2db6f4cbe4a9" />
 
 
+***Model Interpretability - Feature Importance: This chart highlights the key drivers of Walmart's sales. 'Department' and 'Store Size' emerged as the most significant predictors in the Random Forest model. This insight allows stakeholders to focus on high-impact departments to maximize revenue.***
+
+
 <img width="1643" height="772" alt="image" src="https://github.com/user-attachments/assets/c12740d3-ba56-49db-9433-50ec55e9478e" />
 <img width="1643" height="219" alt="image" src="https://github.com/user-attachments/assets/94359d56-3a35-4f5a-86f4-e660f2bd4526" />
 
 
-
-
+***Historical Sales Seasonality: An end-to-end time-series visualization showing weekly sales fluctuations from 2010 to 2012. The massive spikes at the end of each year (Thanksgiving and Christmas) confirm the high impact of holiday seasons on retail demand.***
 
 <img width="1550" height="679" alt="image" src="https://github.com/user-attachments/assets/ffee59eb-e1bd-4079-b150-ec011eb8b009" />
 
-
+***Business Insight - Holiday Impact: A comparative analysis of average weekly sales during holiday vs. regular weeks. The data clearly shows a significant increase in sales during holiday periods, validating the need for the specialized forecasting system built in this project.***
 
 <img width="1122" height="668" alt="image" src="https://github.com/user-attachments/assets/199a240f-84cf-4157-a720-d7558e138a62" />
 
