@@ -51,8 +51,9 @@ Seasonal Trends: High sales spikes observed during February, June, and the peak 
 <img width="1635" height="771" alt="image" src="https://github.com/user-attachments/assets/cf7d1ab9-684f-4c36-8f0a-42f4482debcf" />
 
 
-<img width="1644" height="776" alt="image" src="https://github.com/user-attachments/assets/8585f5f8-cc50-4d4d-8902-c32c2a03167d" />
-<img width="1422" height="162" alt="image" src="https://github.com/user-attachments/assets/13d1597f-253f-4184-a83e-049a51582ea4" />
+<img width="1643" height="772" alt="image" src="https://github.com/user-attachments/assets/c12740d3-ba56-49db-9433-50ec55e9478e" />
+<img width="1647" height="190" alt="image" src="https://github.com/user-attachments/assets/bcfa4176-596e-4614-9649-cabb1a2706f0" />
+
 
 <img width="1550" height="679" alt="image" src="https://github.com/user-attachments/assets/ffee59eb-e1bd-4079-b150-ec011eb8b009" />
 
