@@ -50,6 +50,9 @@ Unlike traditional analysis, this project features a **real-time automation pipe
 
 <img width="1635" height="771" alt="image" src="https://github.com/user-attachments/assets/cf7d1ab9-684f-4c36-8f0a-42f4482debcf" />
 
+***Model Accuracy Visualization: This chart compares the Actual Weekly Sales (Blue) against the Predicted Sales (Orange) for a test sample of 50 data points. The high degree of overlap demonstrates the model's robust ability to capture complex retail trends and seasonal fluctuations with high precision.***
+
+<img width="1640" height="730" alt="image" src="https://github.com/user-attachments/assets/7567040d-b127-4883-a2f5-2db6f4cbe4a9" />
 
 
 <img width="1643" height="772" alt="image" src="https://github.com/user-attachments/assets/c12740d3-ba56-49db-9433-50ec55e9478e" />
