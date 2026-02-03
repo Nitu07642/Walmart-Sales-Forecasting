@@ -46,7 +46,7 @@ Unlike traditional analysis, this project features a **real-time automation pipe
 * **Model Handling:** The final model is highly optimized. (Note: The 2.9GB .pkl model file is excluded via `.gitignore` for repository efficiency but can be provided on request).
 
 ---
-**Seasonal Trends: High sales spikes observed during February, June, and the peak holiday season in December**.
+***Seasonal Trends: High sales spikes observed during February, June, and the peak holiday season in December***.
 
 <img width="1635" height="771" alt="image" src="https://github.com/user-attachments/assets/cf7d1ab9-684f-4c36-8f0a-42f4482debcf" />
 
