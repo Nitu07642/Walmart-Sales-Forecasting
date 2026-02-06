@@ -12,7 +12,6 @@ Unlike traditional analysis, this project features a **real-time** .
 ---
 
 ![Uploading image.png…]()
-![Uploading image.png…]()
 
 
 ---
