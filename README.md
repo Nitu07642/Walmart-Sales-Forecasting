@@ -4,16 +4,14 @@
 [![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest%20%7C%20XGBoost-orange.svg)](https://scikit-learn.org/)
 [![Automation](https://img.shields.io/badge/Automation-n8n-red.svg)](https://n8n.io/)
 
+<img width="1261" height="395" alt="image" src="https://github.com/user-attachments/assets/9b24c3e1-e966-4fee-ab8b-77a75d80177a" />
+
 ## 📌 Project Overview
 Predicting demand is a critical challenge in the retail industry. This project provides an end-to-end solution for **Walmart Store Sales Forecasting**, helping businesses optimize their inventory and supply chain. 
 
 Unlike traditional analysis, this project features a **real-time** .
 
 ---
-<img width="1261" height="395" alt="image" src="https://github.com/user-attachments/assets/9b24c3e1-e966-4fee-ab8b-77a75d80177a" />
-<img width="1261" height="395" alt="image" src="https://github.com/user-attachments/assets/9b24c3e1-e966-4fee-ab8b-77a75d80177a" />
-![Uploading image.png…]()
-![Uploading image.png…]()
 
 
 ---
