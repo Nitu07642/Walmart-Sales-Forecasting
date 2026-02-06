@@ -1,4 +1,4 @@
-# 🚀 Walmart Advanced Sales Forecasting & Automation Pipeline
+<img width="1017" height="325" alt="image" src="https://github.com/user-attachments/assets/8aea767a-86d0-4aae-9ae0-32b4715337f5" /><img width="1017" height="325" alt="image" src="https://github.com/user-attachments/assets/8aea767a-86d0-4aae-9ae0-32b4715337f5" /># 🚀 Walmart Advanced Sales Forecasting & Automation Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest%20%7C%20XGBoost-orange.svg)](https://scikit-learn.org/)
@@ -7,11 +7,14 @@
 ## 📌 Project Overview
 Predicting demand is a critical challenge in the retail industry. This project provides an end-to-end solution for **Walmart Store Sales Forecasting**, helping businesses optimize their inventory and supply chain. 
 
-Unlike traditional analysis, this project features a **real-time automation pipeline** .
+Unlike traditional analysis, this project features a **real-time** .
 
 ---
 
-<img width="814" height="258" alt="image" src="https://github.com/user-attachments/assets/a6ccbc26-c392-40f7-881b-d439eb5844be" />
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 
 ---
