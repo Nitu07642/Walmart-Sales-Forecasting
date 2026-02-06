@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest%20%7C%20XGBoost-orange.svg)](https://scikit-learn.org/)
-[![Automation](https://img.shields.io/badge/Automation-n8n-red.svg)](https://n8n.io/)
 
 <img width="1261" height="395" alt="image" src="https://github.com/user-attachments/assets/9b24c3e1-e966-4fee-ab8b-77a75d80177a" />
 
