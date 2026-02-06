@@ -1,4 +1,4 @@
-<img width="1017" height="325" alt="image" src="https://github.com/user-attachments/assets/8aea767a-86d0-4aae-9ae0-32b4715337f5" /><img width="1017" height="325" alt="image" src="https://github.com/user-attachments/assets/8aea767a-86d0-4aae-9ae0-32b4715337f5" /># 🚀 Walmart Advanced Sales Forecasting & Automation Pipeline
+<img width="1017" height="325" alt="image" src="https://github.com/user-attachments/assets/8aea767a-86d0-4aae-9ae0-32b4715337f5" /># 🚀 Walmart Advanced Sales Forecasting & Automation Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest%20%7C%20XGBoost-orange.svg)](https://scikit-learn.org/)
