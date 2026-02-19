@@ -18,11 +18,10 @@ Unlike traditional analysis, this project features a **real-time** .
 This project demonstrates an end-to-end data pipeline: from **Feature Engineering** and **Machine Learning** in Python to **Strategic Visualization** in an Advanced Excel Dashboard. As a B.Tech graduate aiming for AI Scientist roles, I engineered this to solve retail forecasting challenges.
 
 ### 📊 Interactive Dashboard Preview
-![Walmart Dashboard Showcase](<img width="1683" height="729" alt="Screenshot 2026-02-19 152958" src="https://github.com/user-attachments/assets/48011dd7-b30d-42d6-a3be-a7a7fa1437e9" />
-<img width="1683" height="729" alt="Screenshot 2026-02-19 152958" src="https://github.com/user-attachments/assets/48011dd7-b30d-42d6-a3be-a7a7fa1437e9" />
+**Walmart Dashboard Showcase**
+<img width="1771" height="722" alt="Screenshot 2026-02-19 123828" src="https://github.com/user-attachments/assets/c2069a21-05da-4360-94ca-c4fe5f586814" />
 
-)
-*This dashboard features KPI tracking, store-wise slicers, and a unique AI vs. Reality comparison chart.*
+**This dashboard features KPI tracking, store-wise slicers, and a unique AI vs. Reality comparison chart.**
 
 ---
 
