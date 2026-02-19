@@ -12,14 +12,15 @@ Unlike traditional analysis, this project features a **real-time** .
 
 ---
 
+# 🛒 Walmart Strategic Sales Forecasting & BI Dashboard
 
----
+### 📌 Project Overview
+This project demonstrates an end-to-end data pipeline: from **Feature Engineering** and **Machine Learning** in Python to **Strategic Visualization** in an Advanced Excel Dashboard. As a B.Tech graduate aiming for AI Scientist roles, I engineered this to solve retail forecasting challenges.
 
-## 🚀 Key Features
- **Time-Series Forecasting:** Built using Random Forest and XGBoost to capture complex seasonal patterns and holiday spikes.
- **Intelligent Automation:** Integrated with **n8n** for automated data ingestion and processing.
- **Web Deployment:** A user-friendly **Streamlit** dashboard for real-time sales prediction and visualization.
- **Scalable Architecture:** Designed to handle large datasets efficiently.
+### 📊 Interactive Dashboard Preview
+![Walmart Dashboard Showcase](<img width="1683" height="729" alt="image" src="https://github.com/user-attachments/assets/a3ee677f-82ec-468e-96f8-0f04b5491a48" />
+)
+*This dashboard features KPI tracking, store-wise slicers, and a unique AI vs. Reality comparison chart.*
 
 ---
 
