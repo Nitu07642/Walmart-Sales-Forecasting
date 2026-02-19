@@ -19,7 +19,8 @@ This project demonstrates an end-to-end data pipeline: from **Feature Engineerin
 
 ### 📊 Interactive Dashboard Preview
 **Walmart Dashboard Showcase**
-<img width="1861" height="830" alt="Screenshot 2026-02-19 162136" src="https://github.com/user-attachments/assets/f546d676-cdce-4143-ab4c-e0d17d44392c" />
+<img width="1863" height="834" alt="Screenshot 2026-02-19 162603" src="https://github.com/user-attachments/assets/1c4f60f4-f802-4d6d-96f3-fafb44f7af7f" />
+
 
 
 **This dashboard features KPI tracking, store-wise slicers, and a unique AI vs. Reality comparison chart.**
